@@ -4,7 +4,7 @@ My current research interest is Scalable MCMC, Bayesian Variation Inference and 
 
 ### No Title
 
-I believe life and research pursued and triggered by interest and freedom. _How much I love life, how much I love math_.
+I believe life and research triggered and pursued by interest and freedom. _How much I love life, how much I love math_.
 
 ### About Me
 
