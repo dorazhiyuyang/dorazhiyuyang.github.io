@@ -1,6 +1,6 @@
 ## Dora Zhiyu Yang
 
-My current research interest is Scalable MCMC, Bayesian Variation Inference and deep Bayesian learning. 
+My current research interest is Scalable MCMC, Bayesian Variational Inference and deep Bayesian learning. 
 
 ### No Title
 
